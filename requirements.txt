@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+nltk
+scikit-learn
+transformers
+torch
